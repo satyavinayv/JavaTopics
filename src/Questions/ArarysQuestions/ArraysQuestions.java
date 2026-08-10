@@ -1,4 +1,4 @@
-package Questions.FunctionsQuestions;
+package Questions.ArarysQuestions;
 
 import java.util.Arrays;
 
@@ -21,7 +21,7 @@ public class ArraysQuestions {
     }
 
     //Counting elements : Count how many numbers are even or any other
-    // For now lets do search for even values in array
+    // For now let's do search for even values in array
     public static int countValArr (int[] arr)
     {
         int count = 0;
