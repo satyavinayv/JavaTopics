@@ -1,49 +1,54 @@
-☕ Java Topics
+# ☕ Java Topics
 
-A structured collection of Java concepts, examples, and practice programs created while learning and strengthening Java programming fundamentals.
+A structured collection of **Java concepts, examples, and practice programs** created while learning and strengthening Java programming fundamentals.
 
-This repository focuses on understanding Java concepts through hands-on coding, from basic syntax and control flow to arrays, methods, object-oriented programming, collections, searching, and other core programming concepts.
+This repository focuses on understanding Java concepts through **hands-on coding**, from basic syntax and control flow to arrays, methods, object-oriented programming, collections, searching, and other core programming concepts.
 
-📚 Topics Covered
+## 📚 Topics Covered
 
 The repository contains examples and practice programs covering topics such as:
 
-Java Basics
-Variables & Data Types
-Operators
-Input & Output
-Conditional Statements
-Loops
-Methods
-Method Overloading
-Varargs
-Arrays
-2D Arrays
-ArrayList & Collections
-Strings
-Object-Oriented Programming
-Searching Algorithms
-Binary Search
-Number Programs
-Problem-Solving & Practice Programs
+* Java Basics
+* Variables & Data Types
+* Operators
+* Input & Output
+* Conditional Statements
+* Loops
+* Methods
+* Method Overloading
+* Varargs
+* Arrays
+* 2D Arrays
+* ArrayList & Collections
+* Strings
+* Object-Oriented Programming
+* Searching Algorithms
+* Binary Search
+* Number Programs
+* Problem-Solving & Practice Programs
 
-🚧 This repository is continuously updated as I learn and practice new Java concepts.
+> 🚧 This repository is continuously updated as I learn and practice new Java concepts.
 
-🎯 Purpose
+## 🎯 Purpose
 
 The main goals of this repository are to:
 
-Build a strong foundation in Java
-Understand concepts through practical examples
-Practice writing clean and readable Java code
-Strengthen problem-solving skills
-Maintain a personal reference for Java concepts
-Track my progress while learning Java
-🛠️ Technologies
-Language: Java
-IDE: IntelliJ IDEA
-Version Control: Git & GitHub
-📂 Project Structure
+* Build a strong foundation in Java
+* Understand concepts through practical examples
+* Practice writing clean and readable Java code
+* Strengthen problem-solving skills
+* Maintain a personal reference for Java concepts
+* Track my progress while learning Java
+
+## 🛠️ Technologies
+
+* **Language:** Java
+* **IDE:** IntelliJ IDEA
+* **Version Control:** Git & GitHub
+
+## 📂 Project Structure
+
+```text
 JavaTopics/
 │
 ├── src/
@@ -52,32 +57,46 @@ JavaTopics/
 ├── .gitignore
 ├── JavaTopics.iml
 └── README.md
-▶️ How to Run
-Clone the repository:
+```
+
+## ▶️ How to Run
+
+1. Clone the repository:
+
+```bash
 git clone https://github.com/satyavinayv/JavaTopics.git
-Open the project in your preferred Java IDE.
-Navigate to the required topic/program inside src.
-Run the Java class containing the main() method.
-📈 Learning Approach
+```
+
+2. Open the project in your preferred Java IDE.
+
+3. Navigate to the required topic/program inside `src`.
+
+4. Run the Java class containing the `main()` method.
+
+## 📈 Learning Approach
 
 Each topic is practiced with a combination of:
 
-Concept explanations
-Simple examples
-Practical programs
-Problem-solving exercises
-Different approaches to solving problems
+* Concept explanations
+* Simple examples
+* Practical programs
+* Problem-solving exercises
+* Different approaches to solving problems
 
-The goal is not just to learn the syntax, but to understand why, how, and where each Java concept is used.
+The goal is not just to learn the syntax, but to understand **why, how, and where** each Java concept is used.
 
-🚀 Progress
+## 🚀 Progress
 
 This repository is an ongoing learning journey. New Java topics and practice programs will be added regularly.
 
-👨‍💻 Author
+---
 
-Satya Vinay Vella
+### 👨‍💻 Author
 
-GitHub: @satyavinayv
+**Satya Vinay Vella**
+
+GitHub: [@satyavinayv](https://github.com/satyavinayv)
+
+---
 
 ⭐ If you find this repository useful, feel free to star it!
