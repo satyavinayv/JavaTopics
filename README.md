@@ -1,4 +1,3 @@
-README.md
 ☕ Java Topics
 
 A structured collection of Java concepts, examples, and practice programs created while learning and strengthening Java programming fundamentals.
